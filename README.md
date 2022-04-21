@@ -1,13 +1,14 @@
 # todo-app
-My First React App
+Moja pierwsza aplikacja React
+# 
+Prosta aplikacja do zarządzania Twoimi codziennymi zadaniami
 
-# What it do
-It's simple app to add and manage your daily todos
+# Co możesz zrobić
 
-> Add your todo
+> Dodać swoje zadanie
 
-> Look on your exsiting todos
+> Zobaczyć swoje aktualne zadania
 
-> Mark it as Done or delete it
+> Oznaczyć je jako wykonane, bądź usunąć
 
-Look on it on https://jakub-malec826.github.io/todo-app/
+Zobacz na https://jakub-malec826.github.io/todo-app/
