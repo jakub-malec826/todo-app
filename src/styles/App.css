@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(34, 34, 30);
+}
+@media screen and (width > 576px) {
+  .App {
+    margin-top: 2vh;
+  }
+}
+@media screen and (width > 768px) {
+  .App {
+    margin-top: 4vh;
+  }
+}
+.App {
+  padding: 5vh 10vw;
+  text-align: center;
+  border: 2px solid rgb(104, 118, 148);
+  border-radius: 25px;
+}
+.App h1 {
+  color: rgb(162, 163, 100);
+}
+
+button {
+  font-variant: small-caps;
+}
