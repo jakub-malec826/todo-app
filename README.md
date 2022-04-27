@@ -1,14 +1,22 @@
 # todo-app
-Moja pierwsza aplikacja React
+
+> Create-React-App
+
+> React Hooks
+
+> React Router
+
+> Bootstrap
+ 
 # 
 Prosta aplikacja do zarządzania Twoimi codziennymi zadaniami
 
 # Co możesz zrobić
 
-> Dodać swoje zadanie
+> Dodać nowe zadanie
 
 > Zobaczyć swoje aktualne zadania
 
-> Oznaczyć je jako wykonane, bądź usunąć
+> Oznaczyć zadania jako wykonane, bądź usunąć
 
-Zobacz na https://jakub-malec826.github.io/todo-app/
+<a link="https://jakub-malec826.github.io/todo-app/">Link do strony</a>
